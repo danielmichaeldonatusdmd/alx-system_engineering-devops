@@ -1,0 +1,2 @@
+#!/bib/bash
+chgrp school hello
