@@ -3,3 +3,4 @@ task 12= that creates a directory called my_dir with permissions 751 in the work
 task 13= that changes the group owner to school for the file hello
 task 14= that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 task 15= that changes the owner and the group owner of _hello to vincent and staff respectively.
+task 16= that changes the owner of the file hello to betty only if it is owned by the user guillaume
