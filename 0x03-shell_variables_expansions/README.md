@@ -29,3 +29,12 @@ task 9 = Write a script that prints the result of POWER divided by DIVIDE, follo
 POWER and DIVIDE are environment variables
 
 
+task 10 = Write a script that displays the result of BREATH to the power LOVE
+
+
+
+BREATH and LOVE are environment variables
+
+The script should display the result, followed by a new line
+
+
