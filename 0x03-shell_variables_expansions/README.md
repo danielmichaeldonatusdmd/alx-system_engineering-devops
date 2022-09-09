@@ -19,3 +19,6 @@ task 6 = Create a script that creates a new local variable.
 task 7 = Create a script that creates a new global variable.
 
 
+task 8 = Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
+
