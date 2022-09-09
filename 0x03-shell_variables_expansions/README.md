@@ -13,3 +13,6 @@ task 4 = Create a script that lists environment variables.
 task 5 = Create a script that lists all local variables and environment variables, and functions.
 
 
+task 6 = Create a script that creates a new local variable.
+
+
